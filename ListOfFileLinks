@@ -1,0 +1,2 @@
+Katahane = open(r"0.txt","r+")
+Katahane.read()
