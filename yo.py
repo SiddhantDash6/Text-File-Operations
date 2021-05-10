@@ -10,6 +10,8 @@ import sys
 print(sys.version)
 print(sys.executable)
 print(2 + 5)
+print("Hello World!!")
+print("How Are You friend?")
 
 # name = input("Your Name")
 # print("Hello", name)
